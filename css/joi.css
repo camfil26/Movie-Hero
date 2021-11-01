@@ -1,0 +1,69 @@
+body {
+	margin: 0;
+	font-family: 'Jost', sans-serif;
+	font-size: 20px;
+}
+
+header {
+	background-image: url('../img/joi.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-align: center;
+	color: white;
+	min-height: 50vh;
+	position: relative;
+	max-width: 1200px;
+	margin:  0 auto;
+}
+
+main {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+p, ul li {
+	font-weight:600;
+	font-size: ;
+}
+
+h1{
+	font-size: 60px;
+}
+h2{
+	font-size: 90px;
+}
+h3 {
+	font-size: 40px;
+	color: MediumVioletRed;
+}
+
+div {
+	background-image: url('../img/joi-2.jpg');
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-align: center;
+	color: white;
+	min-height: 50vh;
+	position: relative;
+	max-width: 1200px;
+	margin:  0 auto;
+}
+
+footer {
+	background-color: #191919;
+	text-align: center;
+	color:  white;
+	padding: 50px 0;
+}
+
+footer a {
+	color:  white;
+}
+
+footer p {
+	font-weight: 300;
+}
